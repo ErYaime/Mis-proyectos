@@ -1,0 +1,35 @@
+* {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+h1{
+    padding-bottom: 12px;
+}
+
+p{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#botonyp {
+    margin: auto;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+}
+
+#elBoton {
+    max-width: 16rem;
+    max-height: 2rem;
+
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
